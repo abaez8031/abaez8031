@@ -3,6 +3,8 @@
 
 ![giphy-cat-typing](https://github.com/abaez8031/abaez8031/assets/113265748/684352b9-910c-4463-ba40-3d8ac37efce6)
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nodejs,postgres,postman,mongodb,ruby,rails,aws,express,git,html,css)](https://skillicons.dev)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
