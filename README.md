@@ -10,6 +10,9 @@
 - 💬 Ask me about React, sports, and video games.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ariel-baez-36853b26a/) | [abaez8031@gmail.com](mailto:abaez8031@gmail.com)
+- Fun facts: I love running, weightlifting, and sci-fi.
+
+## My Statistics
 
 [![Ariel's GitHub stats](https://github-readme-stats-one-tan-93.vercel.app/api?username=abaez8031&show_icons=true&theme=radical)](https://github.com/abaez8031/github-readme-stats)
 
