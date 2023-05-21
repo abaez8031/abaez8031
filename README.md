@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
 
 ![giphy-cat-typing](https://github.com/abaez8031/abaez8031/assets/113265748/684352b9-910c-4463-ba40-3d8ac37efce6)
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
