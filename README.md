@@ -4,7 +4,7 @@
 ![giphy-cat-typing](https://github.com/abaez8031/abaez8031/assets/113265748/684352b9-910c-4463-ba40-3d8ac37efce6)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nodejs,postgres,postman,mongodb,ruby,rails,aws,express,git,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts, react,redux,nodejs, pycharm, py, postgres,postman,mongodb,ruby,rails,aws,express,git, github, netlify, npm, html,css)](https://skillicons.dev)
 
 - 🔭 I’m currently working on [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 💬 Ask me about React, sports, and video games.
